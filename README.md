@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone the repository in your desired folder using windows powershell or command prompt:
 
-## Available Scripts
+### git clone https://github.com/Chookity96/minimart.git
+
+Go into the minimart folder using and run code .:
+(Or open up VScode and open project folder)
+
+### cd minimart
+### code . 
 
 In the project directory, open terminal using ctrl + J, and then you can run:
 (This will download all dependencies needed to run app)
