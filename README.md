@@ -2,13 +2,13 @@
 
 Clone the repository in your desired folder using windows powershell or command prompt:
 
-### git clone https://github.com/Chookity96/minimart.git
+### `git clone https://github.com/Chookity96/minimart.git`
 
 Go into the minimart folder using and run code .:
 (Or open up VScode and open project folder)
 
-### cd minimart
-### code . 
+### `cd minimart`
+### `code .` 
 
 In the project directory, open terminal using ctrl + J, and then you can run:
 (This will download all dependencies needed to run app)
