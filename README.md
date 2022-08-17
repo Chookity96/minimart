@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, open terminal using ctrl + J, and then you can run:
+(This will download all dependencies needed to run app)
 
 ### `npm ci`
 
@@ -12,7 +13,7 @@ Run the server with:
 
 ### `npm run server`
 
-Finally run the client side react app using:
+Open another terminal and run the client side react app using:
 
 ### `npm run start`
 
